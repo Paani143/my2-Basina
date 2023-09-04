@@ -56,4 +56,4 @@ document.querySelector('.hello').scrollIntoView({
   behavior: 'smooth' 
 });
 ```
-
+[Link to Code Snippet](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
