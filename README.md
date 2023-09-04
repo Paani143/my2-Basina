@@ -28,4 +28,9 @@ It is so peacefull down there, so I like spending time there.
 | Football | Team work and tactics | 24 hours |
 | Running | Core Strength and Stamina | 20 hours |
 
+### Quotes
+
+> The important thing is not to stop questioning. *Albert Einstein*
+> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge. *Stephen Hawking*
+
 
