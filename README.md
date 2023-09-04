@@ -30,7 +30,9 @@ It is so peacefull down there, so I like spending time there.
 
 ### Quotes
 
-> The important thing is not to stop questioning. *Albert Einstein*
-> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge. *Stephen Hawking*
+> " The important thing is not to stop questioning."
+>  *Albert Einstein*
+> " The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." 
+>  *Stephen Hawking*
 
 
