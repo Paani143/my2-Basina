@@ -16,4 +16,5 @@ It is so peacefull down there, so I like spending time there.
 * Mutton Biryani
 * Chilli Prawns
 
+[Link to MyStats.md](https://github.com/Paani143/my2-Basina/blob/main/MyStats.md)
 
