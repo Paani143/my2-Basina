@@ -31,10 +31,10 @@ It is so peacefull down there, so I like spending time there.
 # Quotes
 
 > " The important thing is not to stop questioning."
->  -*Albert Einstein* <br>
+>  - *Albert Einstein* <br>
 
 > "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
->  -* Stephen Hawking*
+>  - *Stephen Hawking*
 
 # Code Fencing 
 JavaScript - window.scroll({ behavior: 'smooth' }) not working in Safari [Link to Stack Overflow](https://stackoverflow.com/questions/51229742/javascript-window-scroll-behavior-smooth-not-working-in-safari)
